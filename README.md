@@ -15,3 +15,8 @@ Periyodik görevler için bir hatırlatma uygulaması. Stormgain uygulamasının
 Uygulamayı Ağustos 2021'de geliştirdim ve şu anda paketlerdeki değişiklikler nedeniyle şu anki haliyle yeniden derlenemiyor. Kodu yeniden yazabilirdim ama uygulamaya artık gerek yok ve tekrar yazdığım hali o zamanki kodlama şeklimi ve mantığımı yansıtmazdı. Bunu ilk Flutter uygulamam olarak portföyüme eklemek için Github'a ekledim.
 
 Bu proje ile yerel push bildirimlerini planlamayı ve göndermeyi, widget'ları şekillendirmeyi ve harici uygulamaları açmayı öğrendim.
+
+![Screenshot_2023-02-17-22-48-39-088_com example btckazlan](https://user-images.githubusercontent.com/118119029/219798805-79d8c450-4332-4da8-9113-587f0ab97b01.jpg)
+![Screenshot_2023-02-17-22-48-41-826_com example btckazlan](https://user-images.githubusercontent.com/118119029/219798807-80edb053-a9dc-4102-acf3-2750f38c100e.jpg)
+![IMG_20230218_003419](https://user-images.githubusercontent.com/118119029/219798813-81ba3349-d646-40a6-a5cc-e689c13fe2f1.jpg)
+![Screenshot_2023-02-17-22-47-47-235_com example btckazlan](https://user-images.githubusercontent.com/118119029/219798815-03e20802-989c-4f6c-a9e8-18a17bb47e9f.jpg)

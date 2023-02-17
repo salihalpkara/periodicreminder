@@ -16,7 +16,7 @@ Uygulamayı Ağustos 2021'de geliştirdim ve şu anda paketlerdeki değişiklikl
 
 Bu proje ile yerel push bildirimlerini planlamayı ve göndermeyi, widget'ları şekillendirmeyi ve harici uygulamaları açmayı öğrendim.
 
-![](https://user-images.githubusercontent.com/118119029/219798805-79d8c450-4332-4da8-9113-587f0ab97b01.jpg | width=270)
-![](https://user-images.githubusercontent.com/118119029/219798807-80edb053-a9dc-4102-acf3-2750f38c100e.jpg)
-![4](https://user-images.githubusercontent.com/118119029/219798813-81ba3349-d646-40a6-a5cc-e689c13fe2f1.jpg)
-![](https://user-images.githubusercontent.com/118119029/219798815-03e20802-989c-4f6c-a9e8-18a17bb47e9f.jpg)
+![](https://user-images.githubusercontent.com/118119029/219798805-79d8c450-4332-4da8-9113-587f0ab97b01.jpg | width=100)
+![](https://user-images.githubusercontent.com/118119029/219798807-80edb053-a9dc-4102-acf3-2750f38c100e.jpg | width=100)
+![4](https://user-images.githubusercontent.com/118119029/219798813-81ba3349-d646-40a6-a5cc-e689c13fe2f1.jpg | width=100)
+![](https://user-images.githubusercontent.com/118119029/219798815-03e20802-989c-4f6c-a9e8-18a17bb47e9f.jpg | width=100)

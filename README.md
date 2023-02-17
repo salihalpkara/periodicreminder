@@ -1,16 +1,7 @@
-# bedeouireminder
+# Bede Oui Hatırlama Servisi (Bede Oui Reminder Service)
 
-A new Flutter project.
+A reminder app for periodic tasks. Specially designed for the cloud mining task from the Stormgain app. Users should activate the mining session every 4 hours. That's why there is a button to open Stormgain app directly and that's why the default time gap for the reminder notification is 240 minutes (4 hours).
 
-## Getting Started
+I developed the app in August 2021 and is currently not recompilable due to the changes in packages. I could rewrite the code but the app is no longer needed. I just added this to my Github to add it to my portfolio as my first Flutter app.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+With this project, I learned scheduling and sending local push notifications, styling widgets and opening external apps.

@@ -1,4 +1,4 @@
-# Bede Oui Hatırlama Servisi (Bede Oui Reminder Service)
+# Bede Oui Hatırlatma Servisi (Bede Oui Reminder Service)
 
 ## EN
 

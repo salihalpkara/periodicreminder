@@ -1,6 +1,6 @@
 ## Bede Oui Hatırlama Servisi (Bede Oui Reminder Service)
 
-#EN
+# EN
 
 A reminder app for periodic tasks. Specially designed for the cloud mining task of the Stormgain app. Users should activate the mining session every 4 hours. That's why there is a button to open Stormgain app directly and that's why the default time gap for the reminder notification is 240 minutes (4 hours).
 
@@ -8,7 +8,7 @@ I developed the app in August 2021 and is currently not recompilable due to the 
 
 With this project, I learned scheduling and sending local push notifications, styling widgets and opening external apps.
 
-#TR
+# TR
 
 Periyodik görevler için bir hatırlatma uygulaması. Stormgain uygulamasının bulut madenciliği görevi için özel olarak tasarlandı. Kullanıcılar madencilik oturumunu her 4 saatte bir etkinleştirmelidir. Bu nedenle Stormgain uygulamasını doğrudan açmak için bir buton vardır ve bu nedenle hatırlatma bildirimi için varsayılan zaman aralığı 240 dakikadır (4 saat).
 

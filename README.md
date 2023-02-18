@@ -14,7 +14,7 @@ Periyodik görevler için bir hatırlatma uygulaması. StormGain adlı kripto al
 
 Uygulamayı Ağustos 2021'de geliştirdim ve şu anda paketlerdeki değişiklikler nedeniyle şu anki haliyle yeniden derlenemiyor. Kodu yeniden yazabilirdim ama uygulamaya artık gerek yok ve tekrar yazdığım hali o zamanki kodlama şeklimi ve mantığımı yansıtmazdı. Bunu ilk Flutter uygulamam olarak portföyüme eklemek için Github'a ekledim.
 
-Bu proje ile yerel push bildirimlerini planlamayı ve göndermeyi, widget'ları şekillendirmeyi ve harici uygulamaları açmayı öğrendim.
+Bu proje ile yerel push bildirimlerini planlamayı ve göndermeyi, widget'ları biçimlendirmeyi ve harici uygulamaları açmayı öğrendim.
 
 <div style="display:flex; flex-direction: row; justify-content: center; align-items: center">
   <img src="https://user-images.githubusercontent.com/118119029/219798815-03e20802-989c-4f6c-a9e8-18a17bb47e9f.jpg" alt="" style="width: 20%;">

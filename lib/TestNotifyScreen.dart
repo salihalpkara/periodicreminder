@@ -43,7 +43,7 @@ class _TestNotifyScreenState extends State<TestNotifyScreen> {
         backgroundColor: Colors.black87,
         title: Center(
           child: Text(
-            "Bede Oui Hatırlatma Servisi",
+            "Periyodik Hatırlatma Servisi",
           ),
         ),
       ),
@@ -126,7 +126,7 @@ class _TestNotifyScreenState extends State<TestNotifyScreen> {
                           setState(() {
                             baslik = baslikCon.text != ""
                                 ? baslikCon.text
-                                : "Bede Oui Hatırlatma Servisi";
+                                : "Periyodik Hatırlatma Servisi";
                             icerik = icerikCon.text != ""
                                 ? icerikCon.text
                                 : "Yapman gereken bir iş var!";
@@ -218,7 +218,7 @@ class _TestNotifyScreenState extends State<TestNotifyScreen> {
                         openStore: false);
                   },
                   child: Text(
-                    "StormGain'i aç",
+                    "Uygulamayı aç",
                     style: TextStyle(
                         color: Colors.black,
                         fontSize: 16,

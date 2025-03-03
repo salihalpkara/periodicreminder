@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.bedeouireminder">
+    package="com.example.periodicreminder">
    <application
-        android:label="Bede Oui Hatırlatma Servisi"
+        android:label="Periyodik Hatırlatma Servisi"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:showWhenLocked="true"

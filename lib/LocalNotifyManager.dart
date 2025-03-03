@@ -67,7 +67,7 @@ class LocalNotifyManager {
     var iosChannel = IOSNotificationDetails();
     var platformChannel =
         NotificationDetails(android: androidChannel, iOS: iosChannel);
-    await flutterLocalNotificationsPlugin.show(0, "Bede Oui Hatırlatma Servisi",
+    await flutterLocalNotificationsPlugin.show(0, "Periyodik Hatırlatma Servisi",
         "Bildirim başarıyla ayarlandı!", platformChannel,
         payload: "New Payload");
   }

@@ -10,7 +10,7 @@ With this project, I learned scheduling and sending local push notifications, st
 
 ## TR
 
-Periyodik görevler için bir hatırlatma uygulaması. Bir kripto alım-satım uygulamasında bulunan ve bulut madenciliği olarak adlandırılan görev için özel olarak geliştirildi. Kullanıcılar madencilik oturumunu her 4 saatte bir etkinleştirmeliydi. Bu sebeple uygulamayı doğrudan açmak için bir buton bulunuyor ve aynı sebeple hatırlatma bildirimi için varsayılan zaman aralığı 240 dakika olarak belirlendi.
+Periyodik görevler için bir hatırlatma uygulaması. Bir kripto alım-satım uygulamasında bulunan ve bulut madenciliği olarak adlandırılan görev için özel olarak geliştirildi. Kullanıcıların madencilik oturumunu her 4 saatte bir etkinleştirmesi gerekiyordu. Bu sebeple uygulamayı doğrudan açmak için bir buton bulunuyor ve aynı sebeple hatırlatma bildirimi için varsayılan zaman aralığı 240 dakika olarak belirlendi.
 
 Uygulamayı Ağustos 2021'de geliştirdim ve şu anda paketlerdeki değişiklikler nedeniyle şu anki haliyle yeniden derlenemiyor. Kodu yeniden yazabilirdim ama uygulamaya artık gerek yok ve tekrar yazdığım hali o zamanki kodlama şeklimi ve mantığımı yansıtmazdı. Bunu ilk Flutter uygulamam olarak portföyüme eklemek için Github'a ekledim.
 

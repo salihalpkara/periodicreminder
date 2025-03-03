@@ -2,7 +2,7 @@
 
 ## EN
 
-A reminder app for periodic tasks. Specially developed for the so-called cloud mining task of a cryptocurrency trading app. Users had to activate the mining session every 4 hours. That's why there is a button to open the app directly and that's why the default time gap for the reminder notification is 240 minutes.
+A reminder app for periodic tasks. Specially developed for the so-called cloud mining task of a cryptocurrency trading app. Users had to activate the mining session every 4 hours. That's why there is a button to open the app directly and the default time gap for the reminder notification is 240 minutes.
 
 I developed the app in August 2021 and is currently not recompilable due to the changes in packages. I could rewrite the code but the app is no longer needed and I would rewrite it in a different way that does not reflect my coding style of that time. I just added this to my Github to add it to my portfolio as my first Flutter app.
 

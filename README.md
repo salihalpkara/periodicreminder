@@ -17,8 +17,9 @@ Uygulamayı Ağustos 2021'de geliştirdim ve şu anda paketlerdeki değişiklikl
 Bu proje ile yerel push bildirimlerini planlamayı ve göndermeyi, widget'ları biçimlendirmeyi ve harici uygulamaları açmayı öğrendim.
 
 <div style="display:flex; flex-direction: row; justify-content: center; align-items: center">
-  <img src="https://user-images.githubusercontent.com/118119029/219798815-03e20802-989c-4f6c-a9e8-18a17bb47e9f.jpg" alt="" style="width: 20%;">
-  <img src="https://user-images.githubusercontent.com/118119029/219798805-79d8c450-4332-4da8-9113-587f0ab97b01.jpg" alt="" style="width: 20%;">
-  <img src="https://user-images.githubusercontent.com/118119029/219798807-80edb053-a9dc-4102-acf3-2750f38c100e.jpg" alt="" style="width: 20%;">
-  <img src="https://user-images.githubusercontent.com/118119029/219802187-a52b6744-de32-47bd-a03e-5328362e56b3.png" alt="" style="width: 20%;">
+  <img src="https://github.com/user-attachments/assets/9daca1c9-8a06-4174-847d-628bbb16ff3b" alt="" style="width: 20%;">
+  <img src="https://github.com/user-attachments/assets/a19391f1-1dea-4e1e-b720-bf25d3f86730" alt="" style="width: 20%;">
+  <img src="https://github.com/user-attachments/assets/575c5ffa-1ca8-4f62-8a13-f0bb3b1b8ea0" alt="" style="width: 20%;">
+  <img src="https://github.com/user-attachments/assets/b0acc660-d765-40de-b6ce-67897897f460" alt="" style="width: 20%;">
 </div>
+
